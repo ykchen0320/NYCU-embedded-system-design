@@ -4,7 +4,7 @@ git clone https://github.com/dog-qiuqiu/Yolo-FastestV2.git
 cd Yolo-FastestV2
 pip3 install -r requirements.txt
 cd ..
-git clone https://github.com/ykchen0320/ncnn.git
+git clone https://github.com/Tencent/ncnn.git
 cd ncnn
 echo "set(CMAKE_SYSTEM_NAME Linux)" > ./toolchains/toolchain-arm-linux.cmake
 echo "set(CMAKE_SYSTEM_PROCESSOR arm)" >> ./toolchains/toolchain-arm-linux.cmake

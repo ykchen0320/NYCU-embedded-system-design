@@ -1,0 +1,6 @@
+eigenValue:
+2.14872e+06
+eigenValue:
+579458
+eigenValue:
+63490.1
